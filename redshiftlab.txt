@@ -1,5 +1,6 @@
 -- Create tables without compression, distribution style or sort keys:
 
+
 CREATE TABLE orders_nocomp
 (
 	o_orderkey BIGINT NOT NULL,
