@@ -1,5 +1,4 @@
 Table DDL:
-
 create external table orders 
 (O_ORDERKEY INT, 
 O_CUSTKEY INT, 
